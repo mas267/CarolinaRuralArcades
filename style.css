@@ -1,0 +1,66 @@
+header {background-color: darkred;margin: auto}
+/*this colors and adjusts the header background*/
+body {background-color: black; margin: -25px 0px -25px 0px}
+/*this colors and adjusts the body background*/
+footer {background-color: darkred; margin: auto;}
+/*this colors and adjusts the footer background*/
+#Builds {font-family: Impact; color: crimson; -webkit-text-stroke: 1px white; text-align: center;}
+/*this changes the font and color and applys an outline with centering*/
+#Team {font-family: Impact; color: crimson; -webkit-text-stroke: 1px white; text-align: center;}
+/*this changes the font and color and applys an outline with centering*/
+.imgrow {text-align: center;}
+/*centers img row*/
+.bro {display: flex;}
+/*makes ckass fkex fit*/
+.cody {max-width: 50%;}
+/*fits to half of the container*/
+.codytext {flex:1;padding: 10px;font-family: Impact;font-size: 30px;color: crimson;}
+/*fills text to rest of space with padding with new font and color*/
+p {color: ghostwhite;}
+/*make p text white*/
+#shop {color: white;text-align: center;}
+/*makes our shop text white and centered*/
+#part1 {color: white; text-align: center;font-family: Impact; padding: 5px;}
+/*makes the text white with an alignment padding and font change*/
+#moth {color: white;}
+/*makes text white*/
+.moth2 {font-family: impact; color: crimson;}
+/*adds font and color to this p*/
+.moth3 {font-family: impact; color: crimson;}
+/*adds font and color to this p*/
+.graph {color: white;}
+/*makes text white*/
+.graph2 {color: crimson; font-family: impact;}
+/*adds font and color to text*/
+.graph3 {color: crimson; font-family: impact;}
+/*adds color and font to text*/
+.psu {color: white;}
+/*makes text white*/
+.psu2 {font-family: impact; color: crimson;}
+/*adds font and color to text*/
+.psu3 {font-family: impact; color: crimson;}
+/*adds font and color to text*/
+.info {color: white; font-family: impact; text-align: center;}
+/*makes text white, change font, and align center*/
+.form {text-align: center;color: white;}
+/*centers the form and makes it white*/
+.butt {display: block; margin-left: auto; margin-right: auto;width: 100px;}
+/*centers button under form*/
+.para {color: crimson; text-align: center; font-family: impact;}
+/*makes text red, centered, and change font*/
+.para2 {color: crimson; text-align: center; font-family: impact;}
+/*makes text red, aligns center and change font*/
+.maplogo {text-align: center;}
+/*centers tiny logo img*/
+.map {display: block;margin-left: auto; margin-right: auto; width: 50%;}
+/*centers map image*/
+.add {text-align: center;}
+/* centers address text*/
+.time {text-align: center;}
+/*centers time text*/
+.para4 {text-align: center;font-family: impact;color: crimson;}
+/*centers text, changes font, and color*/
+.intro {text-align: center; font-family: impact;}
+/*centers text, and changes font*/
+.hall {max-width: fit-content;}
+/*fits banner img to screen width*/
